@@ -1,3 +1,4 @@
+# Mirror of enticingns/fujiang-armor - sync workflow lives on this branch (mirror-admin).
 name: Sync upstream mirror
 
 on:
